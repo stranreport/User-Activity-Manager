@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UX_ProgramManager.FormIgnore" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAIAAAAACAAABAIAACAgAACAAAABQAAAQAAgAAAAAA=</HashCode>
+      <FileName>FormIgnore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UX_ProgramManager.FormMain" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCgIIBFEACSSKhAAAACChAAKgAAUiMDCESAKAIgAKiA=</HashCode>
+      <FileName>FormMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UX_ProgramManager.FormRegi" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAIAIQAACAEABIoAQCAhAACABEAAgAgARAAkgAAIAA=</HashCode>
+      <FileName>FormRegi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UX_ProgramManager.FormTimeTable">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAIAAACICAAIhIAAECAgAACAAAAAAAAACAAoYAAgAI=</HashCode>
+      <FileName>FormTimeTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UX_ProgramManager.FormViewGroup" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACCAAABAACACAgAAqAAAAAgAAAAABRAAAIBA=</HashCode>
+      <FileName>FormViewGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UX_ProgramManager.FormViewRelationData" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAIAAAAACAAABAAFECIwAACAAAAAAEBAAQBgQAAAAA=</HashCode>
+      <FileName>FormViewRelationData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UX_ProgramManager.moduleRecommend">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIIAAAAAAIAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>moduleRecommend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UX_ProgramManager.moduleRun">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAgAAAAAQAAAAAAAAABAAAQCAAgIAAIAAAAAAGAAA=</HashCode>
+      <FileName>moduleRun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UX_ProgramManager.Program" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UX_ProgramManager.manageData.moduleData">
+    <Position X="4" Y="2.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>GMoKINMKACyIC0QAAgKTTgwkQEEY0k8REgICwgWHCKU=</HashCode>
+      <FileName>moduleData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UX_ProgramManager.Properties.Resources" Collapsed="true">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UX_ProgramManager.Properties.Settings" Collapsed="true">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>

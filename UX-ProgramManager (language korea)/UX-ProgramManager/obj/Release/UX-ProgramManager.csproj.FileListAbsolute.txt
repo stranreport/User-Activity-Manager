@@ -1,0 +1,13 @@
+F:\Project\visual studio 2015\Projects\UX-ProgramManager\UX-ProgramManager\bin\Release\UX-ProgramManager.exe.config
+F:\Project\visual studio 2015\Projects\UX-ProgramManager\UX-ProgramManager\bin\Release\UX-ProgramManager.exe
+F:\Project\visual studio 2015\Projects\UX-ProgramManager\UX-ProgramManager\bin\Release\UX-ProgramManager.pdb
+F:\Project\visual studio 2015\Projects\UX-ProgramManager\UX-ProgramManager\obj\Release\UX_ProgramManager.FormIgnore.resources
+F:\Project\visual studio 2015\Projects\UX-ProgramManager\UX-ProgramManager\obj\Release\UX_ProgramManager.FormMain.resources
+F:\Project\visual studio 2015\Projects\UX-ProgramManager\UX-ProgramManager\obj\Release\UX_ProgramManager.FormRegi.resources
+F:\Project\visual studio 2015\Projects\UX-ProgramManager\UX-ProgramManager\obj\Release\UX_ProgramManager.FormTimeTable.resources
+F:\Project\visual studio 2015\Projects\UX-ProgramManager\UX-ProgramManager\obj\Release\UX_ProgramManager.FormViewGroup.resources
+F:\Project\visual studio 2015\Projects\UX-ProgramManager\UX-ProgramManager\obj\Release\UX_ProgramManager.FormViewRelationData.resources
+F:\Project\visual studio 2015\Projects\UX-ProgramManager\UX-ProgramManager\obj\Release\UX_ProgramManager.Properties.Resources.resources
+F:\Project\visual studio 2015\Projects\UX-ProgramManager\UX-ProgramManager\obj\Release\UX-ProgramManager.csproj.GenerateResource.Cache
+F:\Project\visual studio 2015\Projects\UX-ProgramManager\UX-ProgramManager\obj\Release\UX-ProgramManager.exe
+F:\Project\visual studio 2015\Projects\UX-ProgramManager\UX-ProgramManager\obj\Release\UX-ProgramManager.pdb
